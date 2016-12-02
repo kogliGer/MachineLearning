@@ -8,5 +8,9 @@ namespace MachineLearning
 {
     class TestClass
     {
+        public TestClass()
+        {
+
+        }
     }
 }
